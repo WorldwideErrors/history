@@ -1,0 +1,14 @@
+export const mapStyle = [
+  {
+    featureType: "poi",
+    stylers: [{ visibility: "off" }],
+  },
+  {
+    featureType: "transit",
+    stylers: [{ visibility: "off" }],
+  },
+  { 
+    featureType: "administrative", 
+    stylers: [{ visibility: "off" }] 
+  },
+];
